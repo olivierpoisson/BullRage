@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olivi\\OneDrive\\Documents\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj": {}
+    "C:\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olivi\\OneDrive\\Documents\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj": {
+    "C:\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olivi\\OneDrive\\Documents\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj",
+        "projectUniqueName": "C:\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj",
         "projectName": "BullRage.Models",
-        "projectPath": "C:\\Users\\olivi\\OneDrive\\Documents\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj",
+        "projectPath": "C:\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj",
         "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olivi\\OneDrive\\Documents\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\obj\\",
+        "outputPath": "C:\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",

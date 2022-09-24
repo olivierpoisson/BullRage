@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WQRhD8sOxdj2mrtHd+jazo4ub2q5Jeei8rMPQYvRjZi+3M/by5bM5pmhZ671WPMRp8k/5ZTkNR2qm3YMH2k9dw==",
+  "dgSpecHash": "RglOlv/X4s0x7iAwJTARlU4HWJ50XWllmSvgMmGzRV7pniX/VyrYYS1KGo34BIFZGK+K1dJ6dSZxXS2pCL5mPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olivi\\OneDrive\\Documents\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj",
+  "projectFilePath": "C:\\PersonnalWebProjects\\BullRage\\BullRage\\BullRage.Api\\BullRage.Models\\BullRage.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
